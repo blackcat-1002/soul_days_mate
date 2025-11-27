@@ -4,8 +4,8 @@ export const mates = [
     { 
         id: 'yo', 
         name: '望優', 
-        image: '../public/images/p1.png', 
-        video:"../public/video/1-yo.gif",
+        image: '/images/p1.png', 
+        video:"/video/1-yo.gif",
         color: '#a8c0ff', // 藍色調
         profile: [
         { label: '生日', value: '3/30' },
@@ -20,8 +20,8 @@ export const mates = [
     { 
         id: 'sun', 
         name: '冬陽', 
-        image: '../public/images/p2.png',
-        video:"../public/video/2-sun.gif", 
+        image: '/images/p2.png',
+        video:"/video/2-sun.gif", 
         color: '#FFD166', // 暖黃色調
         profile: [
         { label: '生日', value: '11/30' },
@@ -36,8 +36,8 @@ export const mates = [
     { 
         id: 'fox', 
         name: '令狐御', 
-        image: '../public/images/p3.png', 
-        video:"../public/video/3-fox.gif",
+        image: '/images/p3.png', 
+        video:"/video/3-fox.gif",
         color: '#06D6A0', // 綠色調
         profile: [
         { label: '生日', value: '12/19' },
@@ -52,8 +52,8 @@ export const mates = [
     { 
         id: 'gin', 
         name: '白槿', 
-        image: '../public/images/p4.png', 
-        video:"../public/video/4-gin.gif",
+        image: '/images/p4.png', 
+        video:"/video/4-gin.gif",
         color: '#EF476F', // 紅色調
         profile: [
         { label: '生日', value: '6/30' },
@@ -68,8 +68,8 @@ export const mates = [
     { 
         id: 'sunflower', 
         name: '向葵', 
-        image: '../public/images/p5.png', 
-        video:"../public/video/5-sunflower.gif",
+        image: '/images/p5.png', 
+        video:"/video/5-sunflower.gif",
         color: '#118AB2', // 深藍色調
         profile: [
         { label: '生日', value: '11/18' },
@@ -84,8 +84,8 @@ export const mates = [
     { 
         id: 'plum', 
         name: '小粟', 
-        image: '../public/images/p6.png', 
-        video:"../public/video/6-plum.gif",
+        image: '/images/p6.png', 
+        video:"/video/6-plum.gif",
         color: '#F48C06', // 橘色調
         profile: [
         { label: '生日', value: '6/17' },
